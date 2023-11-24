@@ -33,7 +33,33 @@ doit permettre les fonctionnalités suivantes :
 
 ![App Screenshot](Screenshots/Screenshot1.png)
 
+## Page Web
 
+login:
+
+![App Screenshot](Screenshots/login.png)
+
+liste:
+
+![App Screenshot](Screenshots/liste.png)
+
+Ajout:
+
+![App Screenshot](Screenshots/ajoutavant.png)
+
+![App Screenshot](Screenshots/ajout.png)
+
+search:
+
+![App Screenshot](Screenshots/search2.png)
+
+edit:
+
+![App Screenshot](Screenshots/edit.png)
+
+delete:
+
+![App Screenshot](Screenshots/delete.png)
 
 
 
